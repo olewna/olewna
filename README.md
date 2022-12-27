@@ -14,6 +14,10 @@ Right now I am studying IT as 2nd year student at University of Gdansk.
 ## _I am now studying_:
 - React js
 - Express js
+- Neo4j
+- Docker
+- MongoDB
+- testing in Python (with unittest library)
 
 ## _What I am learning **by myself**_:
 - Unity
