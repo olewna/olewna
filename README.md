@@ -3,23 +3,23 @@
 
 Right now I am studying IT as 2nd year student at University of Gdansk. 
 
-## _Basic skills in_:
-- Python
-- HTML/CSS/SCSS
+## Good knowledge:
 - Javascript
+- Java
+- ReactJS
+- ExpressJs
+- MongoDB
+- Python
+
+## _Basic skills in_:
 - Scala
 - MSQL
 - bash
-- React js
-- Express js
 - Neo4j
 - Docker
-- MongoDB
 - testing in Python (with unittest library)
 
-## _I am now studying_:
-- Schema
-- Java
+[//]: ## _I am now studying_:
 
 ## _What I am learning **by myself**_:
 - Unity
