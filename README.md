@@ -19,7 +19,7 @@ Right now I am studying IT as 2nd year student at University of Gdansk.
 - Docker
 - testing in Python (with unittest library)
 
-[//]: ## _I am now studying_:
+[//]:  <> (## _I am now studying_:)
 
 ## _What I am learning **by myself**_:
 - Unity
