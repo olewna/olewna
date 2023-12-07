@@ -10,6 +10,7 @@ Right now I am studying IT as 2nd year student at University of Gdansk.
 - ExpressJs
 - MongoDB
 - Python
+- Typescript
 
 ## _Basic skills in_:
 - Scala
@@ -19,11 +20,14 @@ Right now I am studying IT as 2nd year student at University of Gdansk.
 - Docker
 - testing in Python (with unittest library)
 
-[//]:  <> (## _I am now studying_:)
+## _I am now studying_:
+- Blender
+- Angular
+- VueJs
 
 ## _What I am learning **by myself**_:
 - Unity
-- Blender
+
 
 ##### Here is my **[Gitlab account](https://gitlab.com/olewna)**.
 <!---
