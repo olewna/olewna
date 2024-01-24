@@ -8,22 +8,24 @@ Right now I am studying IT as 2nd year student at University of Gdansk.
 - Java
 - ReactJS
 - ExpressJs
+- Angular
 - MongoDB
+- Neo4j
 - Python
 - Typescript
+- VueJs
 
 ## _Basic skills in_:
 - Scala
+- Blender
 - MSQL
 - bash
-- Neo4j
 - Docker
 - testing in Python (with unittest library)
 
+<!---
 ## _I am now studying_:
-- Blender
-- Angular
-- VueJs
+--->
 
 ## _What I am learning **by myself**_:
 - Unity
