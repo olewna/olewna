@@ -4,29 +4,35 @@
 Right now I am studying Computer Science as 3rd year student at University of Gdansk and finishing my *Bachelor Degree*. 
 Next step -> **Master Degree Computer Science**
 
-## Good knowledge:
-- JavaScript ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-- TypeScript ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-- Angular 16+
-- ExpressJS
-- Java
-- ReactJS
-- MongoDB
-- Neo4j
-- Python
-- VueJs 3
+## Languages:
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+- ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+- ![HTML/CSS/SCSS](https://img.shields.io/badge/-html5-000?&logo=html5)
 - HTML/CSS/SCSS
 
+## Frontend Frameworks:
+- Angular 16+
+- ReactJS
+- VueJs 3
+
+## Backend & DB
+- ExpressJS
+- NestJS
+- MongoDB
+- Neo4j
+
 ## _Basic skills in_:
-- Scala
-- Blender
-- SQL
-- bash
 - Docker
 - K8s
-- NestJS
+- Blender
+- testing in Python
+- testing in JS & TS
+- SQL
+- bash
 - Spring Boot
-- testing in Python (with unittest library)
+- Scala
 
 <!---
 ## _I am now studying_:
