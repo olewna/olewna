@@ -7,10 +7,10 @@ Next step -> **Master Degree Computer Science**
 ## Languages:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-- ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+- ![Java](https://img.shields.io/badge/-Java-000?&logo=java)
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-- ![HTML/CSS/SCSS](https://img.shields.io/badge/-html5-000?&logo=html5)
-- HTML/CSS/SCSS
+- ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+- ![CSS/SCSS](https://img.shields.io/badge/-CSS/SCSS-000?&logo=css3)
 
 ## Frontend Frameworks:
 - Angular 16+
