@@ -1,8 +1,7 @@
 
 # Hello, I am Oskar! 
 
-Right now I am studying Computer Science as 3rd year student at University of Gdansk and finishing my *Bachelor Degree*. 
-Next step -> **Master Degree Computer Science**
+Computer Science Bachelor Degree. Computer Science Master Degree in progress...
 
 ## Languages:
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
