@@ -10,6 +10,7 @@ Computer Science Bachelor Degree. Computer Science Master Degree in progress...
 - ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 - ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 - ![CSS/SCSS](https://img.shields.io/badge/-CSS/SCSS-000?&logo=css3)
+- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 
 ## Frontend Frameworks:
 - ![Angular 16+](https://img.shields.io/badge/-Angular16+-000?&logo=angular)
@@ -26,18 +27,18 @@ Computer Science Bachelor Degree. Computer Science Master Degree in progress...
 - ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)
 - ![Blender 4](https://img.shields.io/badge/-Blender_4-000?&logo=blender)
+- ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 - ![SQL](https://img.shields.io/badge/-MSQL-000?&logo=mysql)
 - ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnubash)
 - ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-000?&logo=springboot)
 - ![Scala](https://img.shields.io/badge/-Scala-000?&logo=scala)
+- [Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)
 - testing in Python
 - testing in JS & TS
 
 ## _What I am learning **by myself**_:
 - ![Unity](https://img.shields.io/badge/-Unity-000?&logo=unity)
-- ![Svelte](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
 - ![.Net](https://img.shields.io/badge/-.Net-000?&logo=dotnet)
-- ![C++](https://img.shields.io/badge/-C++-000?&logo=cplusplus)
 
 
 
